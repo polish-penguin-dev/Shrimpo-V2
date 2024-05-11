@@ -1,5 +1,30 @@
 {
   "dependencies": {
     "natural": "^7.0.5"
-  }
+  },
+  "name": "shrimpo",
+  "description": "![PoweredByNatural](https://github.com/polish-penguin-dev/Shrimpo-V2/assets/74113025/97a3ae3f-4032-4a3a-979e-1296624b83e1) ![UsingDiceCoefficient](https://github.com/polish-penguin-dev/Shrimpo-V2/assets/74113025/a063cbf2-82f6-42f5-86d5-1cb89626cbd1)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polish-penguin-dev/Shrimpo-V2.git"
+  },
+  "keywords": [
+    "shrimpo",
+    "ai",
+    "chatbot",
+    "shrimpo-v2",
+    "dataset"
+  ],
+  "author": "PolishPenguinDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/polish-penguin-dev/Shrimpo-V2/issues"
+  },
+  "homepage": "https://github.com/polish-penguin-dev/Shrimpo-V2#readme"
 }
